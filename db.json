@@ -1,6 +1,5 @@
-{
-  "customers": [
-  {
+[
+  "customers": {
     "id": 1,
     "email": "123abc@mapquest.com",
     "phone": "1000",
@@ -9,6 +8,7 @@
     "due_date": "8/26/2024",
     "last_digits": "123456"
   },
+  
   {
     "id": 2,
     "email": "456abc@mapquest.com",
@@ -28,4 +28,3 @@
     "last_digits": "6758"
   }
 ]
-}
