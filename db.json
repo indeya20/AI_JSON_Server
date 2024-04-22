@@ -1,14 +1,29 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "email": "123abc@mapquest.com",
+    "phone": "1000",
+    "name": "Jackson Boss",
+    "cc_balance": "334.54",
+    "due_date": "8/26/2024",
+    "last_digits": "123456"
   }
-}
+  {
+    "id": 2,
+    "email": "456abc@mapquest.com",
+    "phone": "1001",
+    "name": "Kanban king",
+    "cc_balance": "534.54",
+    "due_date": "8/17/2024",
+    "last_digits": "7877"
+  }
+  {
+    "id": 3,
+    "email": "456@mapquest.com",
+    "phone": "1002",
+    "name": "Becky Johns",
+    "cc_balance": "334.54",
+    "due_date": "9/12/2024",
+    "last_digits": "6758"
+  }
+]
