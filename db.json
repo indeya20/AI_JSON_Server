@@ -1,5 +1,6 @@
 [
-  "customers": {
+  "customers":
+  {
     "id": 1,
     "email": "123abc@mapquest.com",
     "phone": "1000",
