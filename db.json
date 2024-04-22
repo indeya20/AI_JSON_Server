@@ -7,7 +7,7 @@
     "cc_balance": "334.54",
     "due_date": "8/26/2024",
     "last_digits": "123456"
-  }
+  },
   {
     "id": 2,
     "email": "456abc@mapquest.com",
@@ -16,7 +16,7 @@
     "cc_balance": "534.54",
     "due_date": "8/17/2024",
     "last_digits": "7877"
-  }
+  },
   {
     "id": 3,
     "email": "456@mapquest.com",
