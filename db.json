@@ -1,5 +1,4 @@
-{
-  [
+[
   {
     "id": 1,
     "email": "123abc@mapquest.com",
@@ -9,8 +8,7 @@
     "due_date": "8/26/2024",
     "last_digits": "123456"
   },
-]
-[ 
+ 
 {
     "id": 2,
     "email": "456abc@mapquest.com",
@@ -20,8 +18,7 @@
     "due_date": "8/17/2024",
     "last_digits": "7877"
   },
-]
-[ 
+ 
 {
     "id": 3,
     "email": "456@mapquest.com",
@@ -32,4 +29,3 @@
     "last_digits": "6758"
   }
 ]
-}
